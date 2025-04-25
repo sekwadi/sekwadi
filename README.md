@@ -1,7 +1,7 @@
 # Hi there, I'm Bongani Sekwadi 👋
 
 💻 I'm an aspiring **Full-Stack Developer** passionate about creating meaningful digital experiences.  
-🎯 Currently learning: **HTML, CSS, JavaScript, PHP, Python**, and **Power BI**.  
+🎯 Experience with: **HTML, CSS, JavaScript, PHP, Python**, and **Power BI**.  
 🧪 I have hands-on experience in **Quality Assurance**, **User Acceptance Testing**, and working in **Agile teams**.  
 🌍 Based in **Pretoria, South Africa**.
 
