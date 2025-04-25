@@ -1,14 +1,14 @@
 # Hi there, I'm Bongani Sekwadi 👋
 
 💻 I'm an aspiring **Full-Stack Developer** passionate about creating meaningful digital experiences.  
-🎯 Experience with: **HTML, CSS, JavaScript, PHP, Python**, and **Power BI**.  
+🎯 Experience with: **HTML, CSS, JavaScript,C++,C#,SQL,MYSQL,PL-SQL,PHP, Python**, and **Power BI**.  
 🧪 I have hands-on experience in **Quality Assurance**, **User Acceptance Testing**, and working in **Agile teams**.  
 🌍 Based in **Pretoria, South Africa**.
 
 ---
 
 ### 👨‍💻 What I bring:
-- 🧠 Strong background in QA from working with platforms like **TestRail**, **Jira**, and **Selenium**
+- 🧠 Strong background in QA from working with platforms like **TestRail**, **Jira**,**POSTMAN**,**Playwright**, and **Selenium**
 - 📱 Web testing across browsers and devices with a keen eye for UI/UX alignment using **Figma**
 - 🔍 Detail-oriented mindset with a passion for continuous learning and improvement
 - 🤝 Team player who loves collaborating on projects and learning from others
